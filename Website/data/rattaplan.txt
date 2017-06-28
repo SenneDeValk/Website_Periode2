@@ -1,0 +1,10 @@
+stap 1: Maak 3 php en css bestanden aan die per bestand een sectie bevat,
+		Copieer alleen wat nodig is.
+Stap 2: Laat het resultaat zien aan meneer stoter waarna je het samenvoegt door een
+		< include > te gebruiken of iets dergelijks
+Stap 3: wees blij met je geordende website
+Stap 4: creer een onepage website
+       // na het uitproberen van 3 onepage plugins, bleek het niet mogelijk te zijn
+	   om een mooi parralax effect er bij te hebben, dit komt omdat de scroll
+	   plugins niet scrollen, maar de top value aanpassen //
+Stap 8: installeer een smoothscroll plugin
